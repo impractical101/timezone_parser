@@ -1,0 +1,10 @@
+2023-11-16 13:38:16 - INFO - Logger initialized
+2023-11-16 13:38:16 - INFO - **** STARTING THE TIMEZONE PARSER APPLICATION ****
+2023-11-16 13:38:16 - INFO - Command-line arguments: --match=None, --offset=None
+2023-11-16 13:38:16 - INFO - Reading config file from: /Users/rahul/Downloads/Rackspace/config/wtz_parser.ini
+2023-11-16 13:38:16 - INFO - Config read successfuly
+2023-11-16 13:38:16 - INFO - Downloading time zones data from URL: https://raw.githubusercontent.com/dmfilipenko/timezones.json/master/timezones.json
+2023-11-16 13:38:17 - INFO - Timezones data download successful
+2023-11-16 13:38:17 - INFO - Parsing downloaded timezones data and displaying it in a user-friendly format.
+2023-11-16 13:38:17 - INFO - Successfully parsed and displayed the timezones data in the required format
+2023-11-16 13:38:17 - INFO - **** TIMEZONE PARSER APPLICATION ENDED  ****
